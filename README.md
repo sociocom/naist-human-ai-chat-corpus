@@ -53,7 +53,7 @@ csv形式で、1つの対話を1つのファイルに収録しています。
 ```
 @article{nagai2026construction,
   author = {永井 宥之 and 伊藤 和浩 and 白石 暖哉 and 山崎 由佳 and 若宮 翔子 and 荒牧 英治},
-  title = {話行為がアノテーションされた人間-AI対話コーパスの構築},
+  title = {談話行為がアノテーションされた人間-AI対話コーパスの構築},
   journal = {言語資源ワークショップ2026}
   year = {2026},
 }
